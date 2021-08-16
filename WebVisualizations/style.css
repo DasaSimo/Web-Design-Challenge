@@ -4,6 +4,12 @@
     padding: 10px;
     color: #fff;
 }
+#sm_plots_sel {
+    text-align: center;
+    background-color: rgba(91, 14, 214, 0.6);
+    padding: 10px;
+    color: #fff;
+}
 
 .gradient-custom {
     background: linear-gradient(45deg,
@@ -19,6 +25,6 @@ h3 {
 p {
     padding-top: 10px; 
     margin-left : 10px;
-    margin-right: 10px;
+    margin-right: 20px;
     
 }
