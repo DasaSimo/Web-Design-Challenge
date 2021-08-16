@@ -4,3 +4,21 @@
     padding: 10px;
     color: #fff;
 }
+
+.gradient-custom {
+    background: linear-gradient(45deg,
+    rgba(29, 236, 197, 0.6),
+    rgba(91, 14, 214, 0.6) 100%);
+}
+
+h3 {
+    margin-left: 10px; 
+    margin-top : 10px;
+    color: darkorchid;     
+}
+p {
+    padding-top: 10px; 
+    margin-left : 10px;
+    margin-right: 10px;
+    
+}
