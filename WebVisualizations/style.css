@@ -2,6 +2,7 @@
     text-align: center;
     padding: 10px;
     color: #fff;
+    
 }
 #sm_plots_sel {
     text-align: center;
@@ -39,4 +40,14 @@ body {
     background-image: url('Images/globe-image.jpg');
     height: 100vh;
     background-repeat: no-repeat;
+}
+
+#data_table {
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: large;
+    font-weight:bolder;
+  
+
 }
