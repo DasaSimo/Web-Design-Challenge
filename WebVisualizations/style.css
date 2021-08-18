@@ -23,11 +23,18 @@
     rgba(29, 205, 236, 0.726),
     rgba(91, 14, 214, 0.6) 100%);
 }
-
+h2 {
+    margin-top: 40px;
+    color:aqua; 
+}
 h3 {
     margin-left: 10px; 
     margin-top : 10px;
     color: rgb(46, 19, 59);     
+}
+.summary_text {
+    
+    color:aqua; 
 }
 p {
     padding-top: 10px; 
@@ -40,6 +47,7 @@ body {
     background-image: url('Images/globe-image.jpg');
     height: 100vh;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #data_table {
